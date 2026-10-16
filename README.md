@@ -10,3 +10,7 @@
 | key | value |
 |-----|-------|
 | K   | V     |
+
+| Left Align | Center Align | Right Align |
+| :--- | :---: | ---: |
+| Text | Text | Text |
